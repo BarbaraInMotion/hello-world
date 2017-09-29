@@ -1,5 +1,5 @@
 # hello-world
 learning about github here
 
-#Barbara
+# Barbara
 my first commit!
